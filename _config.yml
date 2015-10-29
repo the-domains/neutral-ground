@@ -1,0 +1,23 @@
+name: Neutral Ground
+favicon: null
+layout_spectrum: 0.9159789946861565
+typography_spectrum: 0.3640279518440366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9302035602740943
+  lightness: 0.9656244984362274
+  saturation: 0.6221701339818537
+  rhythmicContrast: 0.04508273187093437
+purpose: []
